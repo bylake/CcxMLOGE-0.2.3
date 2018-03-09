@@ -1,0 +1,13 @@
+id='id'
+null_up=0.015
+null_down=0.01
+var_manu=[]
+fillNumType=1
+fillClassType=1
+thres_iv=0.02
+BinNum=1
+BinClass=1
+thres_vif=10
+steptype=3
+target='flag_person'
+baseScore,pdo=600,30
